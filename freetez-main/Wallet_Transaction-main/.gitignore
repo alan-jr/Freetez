@@ -1,0 +1,4 @@
+node_modules/
+FreeTez-Backend/.env
+FreeTez-Backend/node_modules/
+FreeTez-Backend/build/
